@@ -5,7 +5,7 @@ theme: jekyll-theme-minimal
 ---
 
 # Pablo Galaz-Davison
-<img src="assets/profile.jpg" alt="Pablo Galaz-Davison" width="200">
+<img src="assets/profile.jpeg" alt="Pablo Galaz-Davison" width="200">
 
 **Protein folding, from the energy landscape to how to redo it.**
 
