@@ -9,11 +9,8 @@ theme: jekyll-theme-minimal
 
 **Protein folding landscapes.**
 
-I am a computational and experimental biophysicist building a research program on
-protein folding: how a polypeptide reaches its native structure, why that process
-fails in disease, and how to help it externally. My work sits at the interface of 
-native-centric simulation, energy-frustration analysis, and hands-on protein biophysics. 
-I model the folding pathway, and then test the prediction at the bench.
+I am a computational and experimental biophysicist/biochemist modelling
+protein folding and their consequences.
 
 Currently a postdoctoral researcher at the Center for Bioinformatics, Simulation and Modeling
 (CBSM), Universidad de Talca, Chile.
