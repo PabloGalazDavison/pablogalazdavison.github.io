@@ -51,7 +51,7 @@ A full list is on [Google Scholar](https://scholar.google.com/citations?user=sde
 ## Background
 
 - **Postdoctoral researcher**, CBSM, Universidad de Talca (2024–present)
-- **PhD**, Pontificia Universidad Católica de Chile (2023)
+- **PhD, Engineering Sciences**, Pontificia Universidad Católica de Chile (2023)
 - **MSc, Biochemistry**, Universidad de Chile (2017)
 - **BSc, Biochemistry**, Universidad de Chile (2015)
 
