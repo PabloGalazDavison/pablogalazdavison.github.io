@@ -42,8 +42,8 @@ A full list is on [Google Scholar](https://scholar.google.com/citations?user=sde
 - Galaz-Davison *et al.* **Differential local stability governs the metamorphic fold
   switch of bacterial virulence factor RfaH.** *Biophysical Journal* (2020). *First
   author — Biophysical Society Paper of the Year.*
-- Fecker & Galaz-Davison *et al.* **Active site flexibility as a hallmark for efficient
-  PET degradation by* I. sakaiensis *PETase.** *Biophysical Journal* (2018). *Equal
+- Fecker & Galaz-Davison *et al.* *Active site flexibility as a hallmark for efficient
+  PET degradation by* I. sakaiensis *PETase.* *Biophysical Journal* (2018). *Equal
   first author.*
 
 ---
