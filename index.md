@@ -6,7 +6,7 @@ theme: jekyll-theme-minimal
 
 # Pablo Galaz-Davison
 
-**Protein folding, from the energy landscape to the molecules that shape it.**
+**Protein folding, from the energy landscape to how to redo it.**
 
 I am a computational and experimental biophysicist building a research program on
 protein folding: how a polypeptide reaches its native structure, why that process
